@@ -1,0 +1,24 @@
+{
+  "name": "pet-age-calculator-js",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library to calculate pet age in human years based on scientific guidelines (AVMA).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petdecoder/pet-age-calculator-js.git"
+  },
+  "keywords": [
+    "pet",
+    "dog",
+    "cat",
+    "age calculator",
+    "veterinary",
+    "pet decoder"
+  ],
+  "author": "Pet Decoder AI <support@petdecoder.ai> (https://petdecoder.ai)",
+  "license": "MIT",
+  "homepage": "https://petdecoder.ai?utm_source=npm&utm_medium=package&utm_campaign=pet-age-calculator"
+}
